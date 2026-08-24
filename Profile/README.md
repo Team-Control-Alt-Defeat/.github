@@ -41,6 +41,7 @@ We are a dedicated group of students driven to solve real-world problems. By com
 | **Ojas Deshpande** | [@OjasD07](https://github.com/OjasD07) | [Profile](https://www.linkedin.com/in/ojasd07/) |
 | **Viraj Barve** | [@Viraj-Barve](https://github.com/Viraj-Barve) | [Profile](https://www.linkedin.com/in/viraj-barve-26132a415/) |
 | **Amogh Chitnis** | [@ACE-domain](https://github.com/ACE-domain) | [Profile](https://www.linkedin.com/in/ace-d-domain/) |
+| **Anaum Khatri** | [@AnaumYK](https://github.com/AnaumYK) | [Profile](https://www.linkedin.com/in/anaum-khatri-a6928640b/) |
 | **Varad Parlikar** | [@varadparlikar08](https://github.com/varadparlikar08) | [Profile](https://www.linkedin.com/in/varad-parlikar-41331a422/) |
 | **Shreshtha Jagdambe** | [@shreshthajagdambe608-design](https://github.com/shreshthajagdambe608-design) | [Profile](https://www.linkedin.com/in/shreshtha-jagdambe-402a55307/) |
 
