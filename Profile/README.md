@@ -9,7 +9,7 @@
   <p align="center">
     <a href="https://www.controlaltdefeat.in/"><img src="https://img.shields.io/badge/Website-controlaltdefeat.in-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
     <a href="https://huggingface.co/Team-Control-Alt-Defeat"><img src="https://img.shields.io/badge/Hugging%20Face-Models%20%26%20Spaces-yellow?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
-    <a href="https://www.linkedin.com/company/team-control-alt-defeat/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://www.linkedin.com/company/team-control-alt-defeat/"><img src="https://img.shields.io/badge/LinkedIn-Follow-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:contact@controlaltdefeat.in"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 </div>
