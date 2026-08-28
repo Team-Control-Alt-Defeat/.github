@@ -22,8 +22,8 @@ We are a dedicated group of students driven to solve real-world problems. By com
 ---
 
 ### 🚀 Current Participations
-* 🏆 **Smart India Hackathon (SIH) 2026** — Developing scalable public-tech innovations.
-* 🤖 **e-Yantra 2026** — Tackling complex engineering, autonomous robotics, and embedded systems challenges.
+* 🏆 **Smart India Hackathon (SIH) 2026** - SIH26046, SIH26134
+* 🤖 **e-Yantra 2026** 
 
 ---
 
@@ -31,8 +31,9 @@ We are a dedicated group of students driven to solve real-world problems. By com
 * 🥇 **[Hackathon / Challenge Name]** — *[Winner / Finalist / Position]*: Brief 1-line description of what was built or achieved.
 * 🥈 **[Hackathon / Challenge Name]** — *[Winner / Finalist / Position]*: Brief 1-line description of what was built or achieved.
 * 🚀 **[Open Innovation Milestone]** — Developed and deployed notable prototypes or technical artifacts.
---> 
+
 ---
+-->
 
 ### 👥 The Team
 
