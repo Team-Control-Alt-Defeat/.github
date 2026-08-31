@@ -23,7 +23,8 @@ We are a dedicated group of students driven to solve real-world problems. By com
 
 ### 🚀 Current Participations
 * 🏆 **Smart India Hackathon (SIH) 2026** - SIH26046, SIH26134
-* 🤖 **e-Yantra 2026** 
+* 🤖 **e-Yantra 2026** - 
+* 📱 **iQOO Hackathon 2026** – City Battles (Pune Edition) - 
 
 ---
 
