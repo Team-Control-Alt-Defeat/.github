@@ -10,6 +10,7 @@
     <a href="https://www.controlaltdefeat.in/"><img src="https://img.shields.io/badge/Website-controlaltdefeat.in-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
     <a href="https://huggingface.co/Team-Control-Alt-Defeat"><img src="https://img.shields.io/badge/Hugging%20Face-Models%20%26%20Spaces-yellow?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
     <a href="https://www.linkedin.com/company/team-control-alt-defeat/"><img src="https://img.shields.io/badge/LinkedIn-Follow-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://www.youtube.com/@TeamControlAltDefeat"><img src="https://img.shields.io/badge/Youtube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube" /></a>
     <a href="mailto:contact@controlaltdefeat.in"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 </div>
@@ -24,7 +25,7 @@ We are a dedicated group of students driven to solve real-world problems. By com
 ### 🚀 Current Participations
 * 🏆 **Smart India Hackathon (SIH) 2026** - SIH26046, SIH26134
 * 🤖 **e-Yantra 2026** - 
-* 📱 **iQOO Hackathon 2026** – City Battles (Pune Edition) - 
+* 📱 **iQOO Hackathon 2026** – City Battles (Pune Edition) - Track 1 [FinTech and Commerce] - PhishBrake
 
 ---
 
