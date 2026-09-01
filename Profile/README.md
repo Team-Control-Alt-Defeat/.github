@@ -23,9 +23,9 @@ We are a dedicated group of students driven to solve real-world problems. By com
 ---
 
 ### 🚀 Current Participations
-* 🏆 **Smart India Hackathon (SIH) 2026** - SIH26046, SIH26134
+* 🏆 **Smart India Hackathon (SIH) 2026** - [SIH26046 - SutraCTMS](https://github.com/Team-Control-Alt-Defeat/SutraCTMS-SIH2026), SIH26134
 * 🤖 **e-Yantra 2026** - 
-* 📱 **iQOO Hackathon 2026** – City Battles (Pune Edition) - Track 1 [FinTech and Commerce] - PhishBrake
+* 📱 **iQOO Hackathon 2026** – City Battles (Pune Edition) - Track 1 [FinTech and Commerce] - [PhishBrake](https://github.com/Team-Control-Alt-Defeat/PhishBrake-iQOO-Hackathon-2026)
 
 ---
 
