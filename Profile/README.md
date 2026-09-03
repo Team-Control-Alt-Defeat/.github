@@ -48,10 +48,3 @@ We are a dedicated group of students driven to solve real-world problems. By com
 | **Anaum Khatri** | [@AnaumYK](https://github.com/AnaumYK) | [Profile](https://www.linkedin.com/in/anaum-khatri-a6928640b/) |
 | **Varad Parlikar** | [@varadparlikar08](https://github.com/varadparlikar08) | [Profile](https://www.linkedin.com/in/varad-parlikar-41331a422/) |
 | **Shreshtha Jagdambe** | [@shreshthajagdambe608-design](https://github.com/shreshthajagdambe608-design) | [Profile](https://www.linkedin.com/in/shreshtha-jagdambe-402a55307/) |
-
----
-
-### 📬 Connect With Us
-* 🌐 **Website:** [controlaltdefeat.in](https://www.controlaltdefeat.in/)
-* 💼 **LinkedIn:** [Team Control Alt Defeat](https://www.linkedin.com/company/team-control-alt-defeat/)
-* 📧 **Direct Inbox:** [contact@controlaltdefeat.in](mailto:contact@controlaltdefeat.in)
