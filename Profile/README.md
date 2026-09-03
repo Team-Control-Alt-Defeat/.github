@@ -7,11 +7,13 @@
   A student collective passionate about building impactful technology to solve global challenges through hackathons and engineering competitions.
 
   <p align="center">
-    <a href="https://www.controlaltdefeat.in/"><img src="https://img.shields.io/badge/Website-controlaltdefeat.in-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
-    <a href="https://huggingface.co/Team-Control-Alt-Defeat"><img src="https://img.shields.io/badge/Hugging%20Face-Models%20%26%20Spaces-yellow?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
-    <a href="https://www.linkedin.com/company/team-control-alt-defeat/"><img src="https://img.shields.io/badge/LinkedIn-Follow-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://www.youtube.com/@TeamControlAltDefeat"><img src="https://img.shields.io/badge/Youtube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube" /></a>
-    <a href="mailto:contact@controlaltdefeat.in"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://www.controlaltdefeat.in/"><img src="https://img.shields.io/badge/controlaltdefeat.in-brown?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+    <a href="https://huggingface.co/Team-Control-Alt-Defeat"><img src="https://img.shields.io/badge/Hugging%20Face-yellow?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" /></a>
+    <a href="https://www.linkedin.com/company/team-control-alt-defeat/"><img src="https://img.shields.io/badge/LinkedIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://www.youtube.com/@TeamControlAltDefeat"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube" /></a>
+    <a href="https://www.instagram.com/teamcontrolaltdefeat"><img src="https://img.shields.io/badge/Instagram-833ab4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+    <a href="https://x.com/__CtrlAltDefeat"><img src="https://img.shields.io/badge/X(Twitter)-black?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+    <a href="mailto:contact@controlaltdefeat.in"><img src="https://img.shields.io/badge/Email-green?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 </div>
 
