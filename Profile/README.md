@@ -25,7 +25,7 @@ We are a dedicated group of students driven to solve real-world problems. By com
 ---
 
 ### 🚀 Current Participations
-* 🤖 **e-Yantra 2026** - 
+* 🤖 **Techfest 2026** - 
 
 ---
 
@@ -42,7 +42,6 @@ We are a dedicated group of students driven to solve real-world problems. By com
 | Member | GitHub | LinkedIn |
 | :--- | :---: | :---: |
 | **Ojas Deshpande** | [@OjasD07](https://github.com/OjasD07) | [Profile](https://www.linkedin.com/in/ojasd07/) |
-| **Viraj Barve** | [@Viraj-Barve](https://github.com/Viraj-Barve) | [Profile](https://www.linkedin.com/in/viraj-barve-26132a415/) |
 | **Amogh Chitnis** | [@ACE-domain](https://github.com/ACE-domain) | [Profile](https://www.linkedin.com/in/ace-d-domain/) |
 | **Sarthak Dhaygude** | [@](https://github.com/)  | [Profile](https://www.linkedin.com/in/) |
 | **Varad Parlikar** | [@varadparlikar08](https://github.com/varadparlikar08) | [Profile](https://www.linkedin.com/in/varad-parlikar-41331a422/) |
